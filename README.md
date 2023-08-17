@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Javascript, Material UI, Mongo DB**
 
-- 📫 How to reach me **rathidishant39@gmail.com**
+- 📫 How to reach me **rathidishant39@gmail.com || dishantrathi0627@gmail.com**
 
 - ⚡ Fun fact **I loves development alongside music**
 
